@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788426157776",
+    "project_id": "lita-messages",
+    "storage_bucket": "lita-messages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788426157776:android:f29420ab4a90ab816cb8d5",
+        "android_client_info": {
+          "package_name": "com.example.lita_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788426157776-jtgujcq7j14a1aobhm4v3218vjohuljb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDsCOPnPyXOmCRkOSRCromKYDudWZIZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788426157776-jtgujcq7j14a1aobhm4v3218vjohuljb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
